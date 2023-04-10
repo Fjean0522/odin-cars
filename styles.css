@@ -9,7 +9,15 @@ body {
     padding: 0;
 }
 
-/* navbar section */
+body img {
+    object-fit: cover;
+}
+
+/* NAVBAR SECTION */
+.navbar-container {
+    background-color: rgb(9, 17, 33);
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -31,20 +39,34 @@ body {
 
 .nav-links a {
     text-decoration: none;
-    color: black;
+    color: white;
     padding: 6px;      
     /* padding adds spacing between links */
 }
 
-/* hero section */
+/* HERO SECTION */
+.hero-container {
+    background-color: rgb(9, 17, 33);
+}
+
 .hero {
     display: flex;
     justify-content: space-between;
     margin: 0px 100px 0px 108px;
+    color: white;
+    
 }
 
+.hero-left p {
+    opacity: 0.8;
+}
+
+.hero-right {
+    padding-bottom: 12px;
+}
 
 .hero-right img {
     height: 300px;
     width: 500px;
+    object-fit: cover;
 }
