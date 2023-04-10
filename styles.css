@@ -15,7 +15,9 @@ body img {
 
 /* NAVBAR SECTION */
 .navbar-container {
-    background-color: rgb(9, 17, 33);
+    /* background-color: rgb(9, 17, 33); */
+    background-color: black;
+    color: white;
 }
 
 .navbar {
@@ -46,19 +48,19 @@ body img {
 
 /* HERO SECTION */
 .hero-container {
-    background-color: rgb(9, 17, 33);
+    /* background-color: rgb(9, 17, 33); */
+    background-color: black;
+    color: white;
 }
 
 .hero {
     display: flex;
     justify-content: space-between;
     margin: 0px 100px 0px 108px;
-    color: white;
-    
 }
 
 .hero-left p {
-    opacity: 0.8;
+    opacity: 0.9;
 }
 
 .hero-right {
@@ -68,5 +70,39 @@ body img {
 .hero-right img {
     height: 300px;
     width: 500px;
-    object-fit: cover;
+    border-radius: 15px;
+}
+
+.hero-button {
+    width: 100px;
+    height: 30px;
+    background-color: #FF2525;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #FF2525;
+    border-radius: 5px;
+}
+
+/* SHOWCASE SECTION */
+.showcase-container h2 {
+    text-align: center;
+    margin-bottom: 30px ;
+}
+
+.showcase {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.showcase img {
+    height: 240px;
+    width: 250px;
+    border: .5px solid red;
+    border-radius: 10px;
+}
+
+.showcase p {
+    text-align: center;
+    font-weight: bold;
 }
