@@ -127,3 +127,37 @@ body img {
     margin-right: 124px;
     font-weight: bold;
 }
+
+/* CALL TO ACTION SECTION */
+.cta {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    margin: 40px 124px;
+    border-radius: 15px;
+}
+
+.cta-right {
+    align-self: center;
+}
+
+.cta-right button {
+    width: 100px;
+    height: 30px;
+    background-color: #FF2525;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #FF2525;
+    border-radius: 5px;
+}
+
+/* FOOTER */
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 24px;
+    background-color: black;
+    color: white;
+}
