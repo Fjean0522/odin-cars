@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    /* border: 1px solid; */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* navbar section */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+}
+
+.nav-logo img {
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.nav-logo {
+    padding: 12px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    /* text-decoration: none; removes link underline */
+    color: black;
+    /* color set to black to match other text appearance */
+    padding: 6px;      
+    /* padding adds spacing between links */
+}
+
+/* hero section */
