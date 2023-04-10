@@ -106,3 +106,24 @@ body img {
     text-align: center;
     font-weight: bold;
 }
+
+/* QUOTE SECTION */
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    height: 150px;
+    padding: 6px 200px;
+}
+
+.p2 {
+    margin-left: 38px;
+}
+
+.author {
+    align-self: flex-end;
+    margin-right: 124px;
+    font-weight: bold;
+}
