@@ -3,7 +3,7 @@
 Simple website landing page, for a mock luxury car dealership. Created to further solidify grasp of flexbox and different layouts.
 
 # Live site
-https://fjean0522.github.io/odin-icecream/
+https://fjean0522.github.io/odin-cars/
 
 ## 1 Author
 Fjean0522
