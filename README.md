@@ -1,6 +1,6 @@
 # odin-cars
 
-Landing page, for a mock luxury car dealership. Created to further solidify knowledge of flexbox and different css layouts.
+Landing page, for a mock luxury car dealership. 
 
 # Live site
 https://fjean0522.github.io/odin-cars/
