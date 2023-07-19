@@ -1,6 +1,6 @@
 # odin-cars
 
-Landing page for a Mock Luxury Car Dealership, to showcase cars upon release.
+Landing page for odin Luxury Car Dealership, to showcase cars upon release.
 
 # Live site
 https://fjean0522.github.io/odin-cars/
