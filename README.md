@@ -3,7 +3,7 @@
 Landing page for odin Luxury Car Dealership, to showcase cars upon release.
 
 # Live site
-https://fjean0522.github.io/odin-cars/
+https://odin-cars.netlify.app/
 
 ## 1 Author
 Fjean0522
